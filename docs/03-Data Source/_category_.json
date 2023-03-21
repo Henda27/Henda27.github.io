@@ -1,0 +1,8 @@
+{
+  "label": "Data Source",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Import/insert Data source untuk kebutuhan laporan."
+  }
+}
