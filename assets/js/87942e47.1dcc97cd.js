@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_dashboard_analytics=self.webpackChunkdoc_dashboard_analytics||[]).push([[9555],{5196:a=>{a.exports=JSON.parse('{"permalink":"/https://henda27.github.io/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

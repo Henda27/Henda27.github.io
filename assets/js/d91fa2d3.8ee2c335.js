@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_dashboard_analytics=self.webpackChunkdoc_dashboard_analytics||[]).push([[7255],{572:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/https://henda27.github.io/blog/tags/hola","allTagsPath":"/https://henda27.github.io/blog/tags","count":1}')}}]);
