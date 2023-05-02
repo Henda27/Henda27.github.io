@@ -20,7 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Henda27', // Usually your GitHub org/user name.
   projectName: 'Henda27.github.io', // Usually your repo name.
-  deploymentBranch: 'master',
+  deploymentBranch: 'main',
   trailingSlash: false,
 
   onBrokenLinks: 'warn',
