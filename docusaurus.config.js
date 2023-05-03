@@ -11,17 +11,17 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://Henda27.github.io/',
+  url: 'https://Henda27.github.io/', //Usually your site pulish github pages. (Edit sesuai dengan url pada Your site is live at di Github Pages)
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Henda27', // Usually your GitHub org/user name.
-  projectName: 'Henda27.github.io', // Usually your repo name.
-  deploymentBranch: 'main',
-  trailingSlash: false,
+  organizationName: 'Henda27', // Usually your GitHub org/user name. (Edit sesuai dengan username github anda)
+  projectName: 'Henda27.github.io', // Usually your repo name. (Edit sesuai dengan nama repository)
+  deploymentBranch: 'main', // Usually your branch publish (Edit sesuai branch yang di setting pada github pages)
+  trailingSlash: false, //add params TrailingSlash (tambahkan baris berikut jika belum ada)
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
