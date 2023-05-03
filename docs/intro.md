@@ -43,6 +43,7 @@ List modul **Financial Statement Analytics Dashboard**.
   - Perusahaan
   - Bisnis Unit
   - Kategori Bisnis
+  - Test Tambah Menu
 
 - Setting
   - Group Akun
@@ -50,3 +51,4 @@ List modul **Financial Statement Analytics Dashboard**.
   - Kategori Chart Of Account
   - Setup Fundamental Report Item
   - Setup Rasio Keuangan
+  
