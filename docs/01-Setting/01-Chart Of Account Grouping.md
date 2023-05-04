@@ -30,3 +30,20 @@ untuk menambahkan item Group Account klik tombol "+ Tambah" pada pojok kanan ata
 11.  Klik Icon ":" pilih Simpan
 
 
+### Cara Edit Group Account
+untuk mengedit item Group Account klik simbol titik tiga pada pojok kiri disetiap bagian tabel
+1. klik titik tiga disetiap samping kiri pada bagian tabel
+2. pilih edit
+3. pilih pada bagian mana yang akan diedit
+4. jika sudah diedit bisa klik tombol simpan
+5. jika tidak jadi mengedit bagian Rasio bisa klik simbol Batal
+
+
+## Cara Delete Group Account
+untuk mendelete Group Account klik simbol titik tiga dipojok bagian kiri disetiap tabel
+1. klik simbol titik tiga dipojok kiri disetiap tabel
+2. pilih Delete
+3. jika benar benar ingin menghapus bagian tabel tersebut akan muncul tampilan Cancel atau Ok 
+4. jika ingin menghapus nya maka klik simbol Ok
+5. jika tidak jadi menghapusnya maka klik simbol cancel
+
