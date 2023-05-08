@@ -2,7 +2,7 @@
 Data Source --> Trial Balance
 
 ### __Cara Menampilkan Trial Balance__
-menu dibagian overview Trial Balance berguna untuk menampilkan sebagian menu menu yang kita ingin ditampilkan
+TAB overview Trial Balance berguna untuk menampilkan sebagian menu menu yang kita ingin ditampilkan
 1. periode beguna untuk memilih bulan dan tahun yang akan ditampilkan
 2. Sub Holding 1 pilih yang akan ditampilkan 
 3. Sub holding 2 pilih yang ingin ditampilkan 
@@ -13,13 +13,13 @@ menu dibagian overview Trial Balance berguna untuk menampilkan sebagian menu men
 8. jika sudah diklik simbol terapkan maka tampilan akan muncul di bagian bawah simbol terapkan
 
 
-Menu List Trial Balace menampilkan List Trial Balance 
+TAB List Trial Balace menampilkan List Trial Balance 
 1. Filter pilih Bisnis Unit untuk memilih
 2. 
 3. kolom pencarian digunakan untuk filter data **List Trial Balance** yang akan ditampilkan ditabel
 
 ### __Cara Menambah Data Trial Balance__
-untuk menambahkan item Data List Trial Balance klik tombol "+ Tambah" pada pojok kanan atas tabel
+untuk menambahkan item Data List Trial Balance klik tombol __"+ Tambah"__ pada pojok kanan atas tabel
 
 
 Setelah klik tombol "+ Tambah" pada pojok kanan atas tabel kemudian akan muncul form pop up

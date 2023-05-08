@@ -37,7 +37,7 @@ Fungsi Tambah data berguna untuk membuat entri atau record baru dalam tabel data
 Fungsi Update ini berperan penting dalam memperbarui entri data ketika informasi yang dikandungnya perlu diubah. Dengan fungsi ini user dapat mengubah informasi entri basis data. 
 1. Pilih titik 3 pada baris data yang ingin dilakukan perubahan data.
 ![edit_data1](../../static/img/KategoriBisnis/10.png)
-2. Pilih dan klik **edit**.
+2. Pilih dan klik **Edit**.
 ![edit_data2](../../static/img/KategoriBisnis/11.png)
 3. Setelah memilih edit maka sistem akan menampilkan pop-up modal yang pada setiap formulirnya telah tercantum data terakhir di input.
 ![edit_data3](../../static/img/KategoriBisnis/12.png)
@@ -55,7 +55,7 @@ Fungsi Update ini berperan penting dalam memperbarui entri data ketika informasi
 ### __Langkah-langkah hapus data Kategori Bisnis__
 ---
 Fungsi Hapus data ini berguna untuk menghapus data di database yang sudah tidak diperlukan lagi. Ketika menggunakan fungsi ini, user mengakses detail entri dan kemudian menginstruksikan sistem untuk menghapusnya dari database. 
-1. User memilih icon titik 3 pada baris data.
+1. User memilih icon titik 3 pada baris data pada bagian kiri.
 ![delete_data1](../../static/img/KategoriBisnis/10.png)
 2. Pilih dan klik **delete**.
 ![delete_data2](../../static/img/KategoriBisnis/11.png)

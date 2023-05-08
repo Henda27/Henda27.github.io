@@ -98,6 +98,7 @@ Fungsi Update ini berperan penting dalam memperbarui entri data ketika informasi
 ![edit_data20](../../static/img/BisnisUnit/41.png)
 19. Setelah itu, jika user sudah memastikan formulir Bisnis Unit telah sesuai maka pilih button **simpan** untuk menyimpan data tersebut dan jika user ingin membatalkan formulir Bisnis Unit maka pilih button **batal**.
 ![edit_data21](../../static/img/BisnisUnit/42.png)
+baris
 20. Jika data tersebut berhasil **tersimpan** maka sistem akan menampilkan pesan **data updated** pada bagian kanan atas tabel.
 ![edit_data22](../../static/img/BisnisUnit/45.png)
 
@@ -111,7 +112,7 @@ Fungsi Hapus data ini berguna untuk menghapus data di database yang sudah tidak 
 ![delete_data3](../../static/img/BisnisUnit/46.png)
 4. Pilih dan klik **Ok** untuk menghapus data dan pilih **Cancel** untuk membatalkan.
 ![delete_data4](../../static/img/BisnisUnit/47.png)
-5. Setelah berhasil menghapus data, maka sistem akan menampilkan pesan berhasil pada bagian kanan atas tabel.
+5. Setelah berhasil menghapus data, maka sistem akan menampilkan pesan **Record Deleted** pada bagian kanan atas tabel.
 ![delete_data5](../../static/img/BisnisUnit/48.png)
 
 ### __Langkah-langkah import data Bisnis Unit__

@@ -16,11 +16,12 @@ Setting->Group Akun
 
 ### __Cara Menambah Group Account__
 untuk menambahkan item Group Account klik tombol "+ Tambah" pada pojok kanan atas tabel
-<!-- ![Tambah_Rasio](../static/img/List-Perusahaan.png) -->
-1.  Pilih Kategori Grup Laporan
-2.  Masukan Kode
-3.  Masukan Nama Group Akun
-4.  Pilih Kategori Akun
+![Tambah_Rasio](../../static/img/GroupAccount/T0.png)
+1.  Masukan Nomer Urut
+2.  Pilih Kategori Grup Laporan
+3.  Masukan Kode
+4.  Masukan Nama Group Akun
+5.  Pilih Kategori Akun
 5.  Pilih Type Akun
 6.  Pilih Label
 7.  Pilih Debet Atau Kredit
@@ -29,9 +30,9 @@ untuk menambahkan item Group Account klik tombol "+ Tambah" pada pojok kanan ata
 10. Pilih Induk
 11.  Klik Icon ":" pilih Simpan
 
-
 ### Cara Edit Group Account
 untuk mengedit item Group Account klik simbol titik tiga pada pojok kiri disetiap bagian tabel
+![Tambah_Rasio](../../static/img/GroupAccount/E0.png)
 1. klik titik tiga disetiap samping kiri pada bagian tabel
 2. pilih edit
 3. pilih pada bagian mana yang akan diedit
@@ -39,11 +40,16 @@ untuk mengedit item Group Account klik simbol titik tiga pada pojok kiri disetia
 5. jika tidak jadi mengedit bagian Rasio bisa klik simbol Batal
 
 
-## Cara Delete Group Account
+### Cara Delete Group Account
 untuk mendelete Group Account klik simbol titik tiga dipojok bagian kiri disetiap tabel
 1. klik simbol titik tiga dipojok kiri disetiap tabel
+![Tambah_Rasio](../../static/img/GroupAccount/E0.png)
 2. pilih Delete
+![Tambah_Rasio](../../static/img/GroupAccount/D1.png)
 3. jika benar benar ingin menghapus bagian tabel tersebut akan muncul tampilan Cancel atau Ok 
+![Tambah_Rasio](../../static/img/GroupAccount/D3.png)
 4. jika ingin menghapus nya maka klik simbol Ok
+![Tambah_Rasio](../../static/img/GroupAccount/D2.png)
 5. jika tidak jadi menghapusnya maka klik simbol cancel
+
 

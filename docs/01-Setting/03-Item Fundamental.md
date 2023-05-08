@@ -19,7 +19,6 @@ untuk menambahkan item Rasio klik tombol " + Tambah" pada pojok kanan atas tabel
 6. Pilih Induk Fundamental
 7. Klik tombol Simpan
 
-
 ### Cara Edit Fundamental
 untuk mengedit item Fundamental klik simbol titik tiga pada pojok kiri disetiap bagian tabel
 1. klik titik tiga disetiap samping kiri pada bagian tabel
@@ -29,7 +28,7 @@ untuk mengedit item Fundamental klik simbol titik tiga pada pojok kiri disetiap 
 5. jika tidak jadi mengedit bagian Fundamental bisa klik simbol Batal
 
 
-## Cara Delete Fundamental
+### Cara Delete Fundamental
 untuk mendelete Fundamental klik simbol titik tiga dipojok bagian kiri disetiap tabel
 1. klik simbol titik tiga dipojok kiri disetiap tabel
 2. pilih Delete

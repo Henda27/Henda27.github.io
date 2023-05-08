@@ -35,7 +35,7 @@ untuk mengedit item Sub Holding klik simbol titik tiga pada pojok kiri disetiap 
 5. jika tidak jadi mengedit bagian Sub Holding bisa klik simbol Batal
 
 
-## Cara Delete Sub Holding
+### Cara Delete Sub Holding
 untuk mendelete Sub Holding klik simbol titik tiga dipojok bagian kiri disetiap tabel
 1. klik simbol titik tiga dipojok kiri disetiap tabel
 2. pilih Delete
