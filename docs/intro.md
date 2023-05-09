@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Introduction
-
+---
 ## Tentang Aplikasi
 
 **Financial Statement Analytics Dashboard**.
@@ -22,8 +22,9 @@ Sehingga aplikasi dapat membantu manajemen untuk membuat keputusan secara lebih 
 
 ![Proses Aplikasi](../static/img/Dashboard-App.png)
 
-## Modul Aplikasi
-
+##  Aplikasi
+---
+### Modul Aplikasi
 List modul **Financial Statement Analytics Dashboard**.
 
 - Dashboard
@@ -52,3 +53,25 @@ List modul **Financial Statement Analytics Dashboard**.
   - Setup Fundamental Report Item
   - Setup Rasio Keuangan
   
+### Fitur Aplikasi
+**Key Feature**
+- Penyajian laporan keuangan dalam bentuk grapik dan tabular data
+- Preview laporan keuangan berdasarkan :
+- Entitas Bisnis Unit
+- Entitas Perusahaan (Gabungan dari bisnis unit)
+- Entitas Group Perusahaan (Gabungan dari beberapa perusahaan dalam satu group perusahaan).
+- Entitas Holding group perusahaan (Gabungan dari beberapa group perusahaan)
+- Berdasarkan periode :
+  - Current Period
+  - Month Over Month
+  - Quarter
+  - Quartet Over Quarter
+  - Year To date
+  - Year Over Year
+- Laporan fundamental berdasarkan formula sesuai kebutuhan pengguna.
+- Rasio laporan keuangan berdasarkan formula sesuai kebutuhan pengguna.
+- Import data Laporan keuangan yang berasal dari Trial Balance (Menggunakan format file spreedsheet).
+- Fungsi closing data input/import trial balance berdasarkan periode tertentu.
+- Multi Database per Holding group perusahaan.
+
+
