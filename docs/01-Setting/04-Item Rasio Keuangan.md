@@ -1,12 +1,19 @@
 Menu **Setup Rasio**, berfungsi untuk mendefinisikan item rasio laporan keuangan.
 
-### __Cara Akses__
-Setting->Setup Rasio
+### __Langkah-langkah mengakses Setup Rasio__
+1. Buka halaman website dashboard dengan situs https://analytics.ecespro.id
 
----
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![url](../../static/img/KategoriBisnis/Url.png)
 
-### __Cara Menampilkan Daftar Rasio__
-1. kolom pencarian digunakan untuk melakukan filter data **Rasio** yang ditampilkan pada table
+2. Setelah itu, jika user belum login maka silahkan login terlebih dahulu.
+![Login](../../static/img/KategoriBisnis/26.png)
+3. Pilih modul Setting lalu setelah itu pilih menu Kategori Bisnis
+![menu_SetupRasio](../../static/img/SetupRasio/SetupRasio.png)
+
+
+### __Langkah-langkah Menampilkan Daftar Setup Rasio__
+1. Setelah kita berhasil mengakses menu Kategori Akun makan sistem otomatis akan menampilkan data list Kategori Akun.
+![tampil_data](../../static/img/SetupRasio/V1.png)
 
 ---
 
@@ -53,3 +60,29 @@ untuk mendelete Rasio klik simbol titik tiga dipojok bagian kiri disetiap tabel
 ![Tambah_Rasio](../../static/img/SetupRasio/D3.png)
 5. jika tidak jadi menghapusnya maka klik simbol cancel
 ![Tambah_Rasio](../../static/img/SetupRasio/D4.png)
+
+---
+
+### __Langkah-langkah menggunakan fitur-fitur pada tabel Setup Rasio__
+---
+Fitur adalah fitur khusus yang disertakan dalam alat. fitur yang telah tersedia pada Bisnis Unit antara lain, yakni :
+
+1. Fitur pencarian data
+Fungsi pencarian data memungkinkan user memfilter data sesuai dengan kriteria.
+![fitur_data1](../../static/img/SetupRasio/Search.png)
+
+2. Fitur show/Hide tabel
+Fungsi show/hide tabel adalah untuk menampilkan atau menyembunyikan field pada tabel.
+![fitur_data2](../../static/img/SetupRasio/SHT.png)
+
+3. Fitur ukuran tabel.
+Berfungsi untuk mengatur ukuran tabel.
+![fitur_data3](../../static/img/SetupRasio/UT.png)
+
+4. Fitur export PDF
+Fungsi dari export PDF yaitu untuk mengeluarkan dan menyimpan data supaya dapat di Import kedalam file berbentuk PDF.
+![fitur_data4](../../static/img/SetupRasio/ExportPDF.png)
+
+5. Fitur export Excel
+Fungsi dari export Excel yaitu untuk mengeluarkan dan menyimpan data supaya dapat di Import kedalam file berbentuk Xls.
+![fitur_data5](../../static/img/SetupRasio/ExportExcel.png)

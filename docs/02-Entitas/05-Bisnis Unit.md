@@ -14,7 +14,7 @@
 1. Setelah kita berhasil mengakses menu Bisnis Unit maka sistem otomatis akan menampilkan data list Bisnis Unit.
 ![tampil_data](../../static/img/BisnisUnit/3.png)
 
-### __Langkah-langkah menambah data Bisnis Unit__
+### __Langkah-langkah tambah data Bisnis Unit__
 Fungsi Tambah data berguna untuk membuat entri atau record baru dalam tabel database. 
 1. Pilih button **"+ Tambah"** pada bagian kanan atas tabel.
 ![tambah_data1](../../static/img/BisnisUnit/4.png)
@@ -41,9 +41,9 @@ Fungsi Tambah data berguna untuk membuat entri atau record baru dalam tabel data
 12. Masukan nomor **telepon Bisnis Unit**
 ![tambah_data13](../../static/img/BisnisUnit/15.png)
 13. Masukan Email **Bisnis Unit**
-![tambah_data14](../../static/img/BisnisUnit/17.png)
+![tambah_data14](../../static/img/BisnisUnit/57.png)
 14. Masukan situs **website Bisnis Unit**
-![tambah_data15](../../static/img/BisnisUnit/16.png)
+![tambah_data15](../../static/img/BisnisUnit/62.png)
 15. Pilih **PIC Bisnis Unit**
 ![tambah_data16](../../static/img/BisnisUnit/18.png)
 ![tambah_data17](../../static/img/BisnisUnit/22.png)
@@ -151,7 +151,7 @@ User dapat memfilter banyak data Perusahaan sesuai dengan kriteria yang telah di
 ![fitur_data2](../../static/img/BisnisUnit/56.png)
 3. Fitur **pencarian data**
 Fungsi pencarian data memungkinkan user memfilter data sesuai dengan kriteria.
-![fitur_data3](../../static/img/BisnisUnit/57.png)
+![fitur_data3](../../static/img/BisnisUnit/63.png)
 4. Fitur **show/Hide tabel**
 Fungsi show/hide tabel adalah untuk menampilkan atau menyembunyikan field pada tabel.
 ![fitur_data4](../../static/img/BisnisUnit/58.png)

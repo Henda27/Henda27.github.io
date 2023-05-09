@@ -10,12 +10,13 @@
 ![modul_entitas](../../static/img/KategoriBisnis/1.png)
 
 
+
 ### __Langkah-langkah menampilkan data list Kategori Bisnis__
 ---
 1. Setelah kita berhasil mengakses menu Kategori Bisnis maka sistem otomatis akan menampilkan data list Kategori Bisnis.
 ![tampil_data](../../static/img/KategoriBisnis/2.png)
 
-### __Langkah-langkah entry data Kategori Bisnis__
+### __Langkah-langkah tambah data Kategori Bisnis__
 Fungsi Tambah data berguna untuk membuat entri atau record baru dalam tabel database. 
 1. Pilih button **"+ Tambah"** pada bagian kanan atas tabel.
 ![tambah_data1](../../static/img/KategoriBisnis/3.png)

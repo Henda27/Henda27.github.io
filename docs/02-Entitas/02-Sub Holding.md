@@ -1,12 +1,15 @@
-## __Cara Akses__
+### __Cara Akses__
 Entitas->Sub Holding
 
-## __Cara Menampilkan Daftar Sub Holding__
+### __Langkah-langkah Menampilkan Daftar Sub Holding__
+---
+1. Buka halaman website dashboard dengan situs **https://analytics.ecespro.id**
+2. Setelah itu, jika user belum login maka silahkan login terlebih dahulu.
+3. Pilih modul Entitas lalu setelah itu pilih menu **Sub Holding**
 
 
-
-
-## __Cara Menambah Data Sub Holding__
+---
+### __Langkah-langkah Menambah Data Sub Holding__
 
 untuk menambahkan item Sub Holding klik tombol "+ Tambah" pada pojok kanan atas tabel
 ![List_SubHolding](../../static/img/SubHolding/List-SubHolding.png)
@@ -21,24 +24,26 @@ Setelah klik tombol "+ Tambah" pada pojok kanan atas tabel kemudian akan muncul 
 7.  Klik tombol Simpan
 ![Tambah_SubHolding](../../static/img/SubHolding/Tambah-SubHolding.png)
 
-### Cara Export Excel Sub Holding
-untuk mengExport Excel tampilan Sub Holding klik simbol Export Excel pada pojok kanan 
-1. klik Export Excel dibagian pojok kanan maka akan otomatis mendownload data Sub Holding dan berubah menjadi bentuk file Excel
+---
+### __Langkah-langkah hapus data Sub Holding__
+Fungsi Hapus data ini berguna untuk menghapus di database yang sudah tidak diperlukan lagi ketika menggunakan fungsi ini, user mengakses detail entri dan kemudian mengintruksikan sistem untuk menghapus dari data base.
+1. Pilih barisan data dengan meng-klik icon titik tiga pada bagian kiri barisan data.
+2. pilih dan klik **delete**.
+3. Setelah di klik, sistem akan menampilkan pop-up konfirmasi yang tercantum keterangan bahwa data yang telah terhapus tidak akan bisa dipulihkan kembali.
+4. Pilih dan klik **Ok** untuk menghapus data dan pilih **Cancel** untuk membatalkan.
+5. Sistem berhasil menghapus data, maka sistem akan menampilkan pesan **Record Deleted** pada bagian kanan atas tabel.
 
+### __Langkah-langkah menggunakan fitur-fitur tabel Sub Holding__
+---
+Fitur adalah fitur khusus yang disertakan dalam alat, fitur yang telah tersedia pada Sub Holding antara Lain, yakni :
 
-### Cara Edit Sub Holding
-untuk mengedit item Sub Holding klik simbol titik tiga pada pojok kiri disetiap bagian tabel
-1. klik titik tiga disetiap samping kiri pada bagian tabel
-2. pilih edit
-3. pilih pada bagian mana yang akan diedit
-4. jika sudah diedit bisa klik tombol simpan
-5. jika tidak jadi mengedit bagian Sub Holding bisa klik simbol Batal
-
-
-### Cara Delete Sub Holding
-untuk mendelete Sub Holding klik simbol titik tiga dipojok bagian kiri disetiap tabel
-1. klik simbol titik tiga dipojok kiri disetiap tabel
-2. pilih Delete
-3. jika benar benar ingin menghapus bagian tabel tersebut akan muncul tampilan Cancel atau Ok 
-4. jika ingin menghapus nya maka klik simbol Ok
-5. jika tidak jadi menghapusnya maka klik simbol cancel
+1. Fitur Filter **pencarian data** 
+Fungsi pencarian data memungkinkan user memfilter data sesuai dengan kriteria
+2. Fitur **show/Hide tabel**
+Fungsi show/hide tabel adalah untuk menampilkan atau menyembunyikan field pada tabel.
+3. Fitur **Ukuran Tabel**
+Berfungsi untuk mengatur ukuran tabel
+4. Fitur **Export Excel**
+Fungsi dari export excel yaitu untuk mengeluarkan dan menyimpan data supaya dapat di Import kedalam file berbentuk Xls
+5. Fitur **Eport PDF**
+Fungsi dari export PDF adalah untuk mengeluarkan dan menyimpan data supaya dapat di Import kelama fille berbentuk PDF.
