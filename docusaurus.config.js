@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://doc.analytics.ecespro.id/', //Usually your site pulish github pages doc. domain luar (Edit sesuai dengan url pada Your site is live at di Github Pages)
+  url: 'https://henda27.github.io/', //Usually your site pulish github pages doc. domain luar (Edit sesuai dengan url pada Your site is live at di Github Pages)
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
