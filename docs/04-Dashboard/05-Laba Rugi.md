@@ -1,7 +1,7 @@
 ## __Langkah-langkah mengakses menu Laba Rugi__
 ---
 ```
-1. Buka halaman website dashboard dengan situs https://analytics.ecespro.id
+1. Buka halaman website dashboard dengan situs https://analytics.ecespro.id.
 ```
 ```
 2.Setelah itu, jika user belum login maka silahkan login terlebih dahulu.
@@ -9,7 +9,7 @@
 ![Login](../../static/img/LabaRugi/1.png)
 
 ```
-3. Setelah berhasil login, maka sistem akan secara otomatis menavigasi ke halaman **Laba Rugi**
+3. Setelah berhasil login, user memilih menu overview entitas lalu menuju ke halaman **Laba Rugi**
 ```
 ![Login](../../static/img/LabaRugi/2.png)
 
@@ -52,30 +52,37 @@
 ![overview_labarugi10](../../static/img/LabaRugi/11.png)
 
 ```
-4. Setelah user memilih klik **Terapkan**, maka sistem akan Menampilkan beberapa data, jika terdapat informasi 
+4. Setelah user memilih klik **Terapkan**, maka sistem akan menampilkan beberapa data, jika terdapat informasi 
 data maka sistem akan menampilkan data pada tabel namun jika tidak ada informasi data didalamnya maka sistem 
 tidak akan menampilkan informasi data. Terdapat informasi data yang akan tampil jika user memilih klik 
 **Terapkan**, Yakni :
 ```
-   * **Tabel Laba Rugi**. Terdapat icon titik tiga Pada bagian kanan atas tabel dimana user dapat melakukan export data dalam bentuk PDF dan Excel.
+* **Tabel Laba Rugi**.
 ![overview_labarugi11](../../static/img/LabaRugi/13.png)
-![overview_labarugi12](../../static/img/LabaRugi/14.png)
-![overview_labarugi13](../../static/img/LabaRugi/15.png)
-   * **Tren Per Bulan**, didalam tren perbulan terdapat beberapa sub menu lagi, yakni :
-     * **12 Bulan Terakhir**
-     ![overview_labarugi11](../../static/img/LabaRugi/52.png)
-     * **Tahun Ini**
-     ![overview_labarugi11](../../static/img/LabaRugi/53.png)
-     * **Tahun Sebelumnya**
-     ![overview_labarugi16](../../static/img/LabaRugi/54.png)
+   >* Terdapat icon titik tiga Pada bagian kanan atas tabel dimana user dapat melakukan export data dalam bentuk PDF dan Excel.
+   ![overview_labarugi12](../../static/img/LabaRugi/14.png)
+   ![overview_labarugi13](../../static/img/LabaRugi/15.png)
 
+* **Tren Per Bulan**, ketika user memilih data lalu mengklik baris data pada tabel **Laba Rugi** maka sistem akan menampilkan detail informasi data **Tren Per Bulan**. User dapat memfilter data dengan kriteria **Bulan dan Quarter** pada bagian kanan atas menu sistem akan menampilkan 3 kategori informasi data Tren Per Bulan, Yakni : 
+   * **12 Bulan Terakhir**
+     ![overview_labarugi11](../../static/img/LabaRugi/52.png)
+   * **Tahun Ini**
+     ![overview_labarugi11](../../static/img/LabaRugi/53.png)
+   * **Tahun Sebelumnya**
+     ![overview_labarugi16](../../static/img/LabaRugi/54.png)
+* **Breakdown Menu**, sistem akan menampilkan informasi data berupa tabel dan grafik ketika user memilih data lalu mengklik baris data pada tabel Laba Rugi Periode maka sistem akan menampilkan detail informasi data Breakdown Menu didalam Breakdown terdapat beberapa sub menu lagi, yakni :
    * **Breakdown By Subholding**
    ![overview_labarugi17](../../static/img/LabaRugi/19.png)
+   ![overview_labarugi17](../../static/img/LabaRugi/63.png)
    * **Breakdown By Kategori Bisnis**
    ![overview_labarugi20](../../static/img/LabaRugi/22.png)
+   ![overview_labarugi17](../../static/img/LabaRugi/64.png)
    * **Breakdown By Perusahaan**
    ![overview_labarugi20](../../static/img/LabaRugi/55.png)
-   * Terdapat icon titik tiga pada menu **Breakdown By** bagian kanan atas tabel dimana user dapat melakukan export data dalam bentuk PDF dan Excel.
+   ![overview_labarugi17](../../static/img/LabaRugi/65.png)
+
+
+* Terdapat icon titik tiga pada menu **Breakdown By** bagian kanan atas tabel dimana user dapat melakukan export data dalam bentuk PDF dan Excel.
 ![overview_labarugi21](../../static/img/LabaRugi/56.png)
 ![overview_labarugi22](../../static/img/LabaRugi/57.png)
 
@@ -113,21 +120,22 @@ tidak akan menampilkan informasi data. Terdapat informasi data yang akan tampil 
 ![overview_labarugi31](../../static/img/LabaRugi/33.png)
 
 ```
-4. Setelah user memilih klik **Terapkan**, maka sistem akan Menampilkan beberapa data, jika terdapat informasi 
+4. Setelah user memilih klik **Terapkan**, maka sistem akan menampilkan beberapa data, jika terdapat informasi 
 data maka sistem akan menampilkan data pada tabel namun jika tidak ada informasi data didalamnya maka sistem 
 tidak akan menampilkan informasi data. Terdapat informasi data yang akan tampil jika user memilih klik 
 **Terapkan**, Yakni :
 ```
-   * **Tabel Laba Rugi Perbulan**. Terdapat icon titik tiga Pada bagian kanan atas tabel dimana user dapat melakukan export data dalam bentuk PDF dan Excel.
+   * **Tabel Laba Rugi Perbulan**, sistem akan menampilkan informasi data berbentuk tabel serta user dapat memfilter data dengan kriteria Bulan, Quarter, dan Tahun pada bagian kanan atas tabel.
    ![overview_labarugi32](../../static/img/LabaRugi/34.png)
-   * **Chart Laba Rugi Per Bulan.**
+   * **Chart Laba Rugi Per Bulan**, sistem akan menampilkan informasi data berbentuk grafik serta user dapat memfilter data dengan kriteria Bulan, Quarter, dan Tahun pada bagian kanan atas tabel.
    ![overview_labarugi33](../../static/img/LabaRugi/35.png)
-   * Terdapat icon titik tiga Pada bagian kanan atas tabel dimana user dapat melakukan export data dalam bentuk PDF dan Excel.
+   * Terdapat icon **titik tiga** pada bagian kanan atas tabel dimana user dapat melakukan export data dalam bentuk PDF dan Excel.
    ![overview_labarugi35](../../static/img/LabaRugi/36.png)
    ![overview_labarugi36](../../static/img/LabaRugi/37.png)
 ### __Overview Laba Rugi Parentitas__
 ```
 1. Ketika user memilih menu Neraca maka sistem akan menampilkan informasi data Neraca yang terdiri dari :
+
 *  Filter data
 *  Tabel Laba Rugi Parentitas
 *  Chart Labara Rugi Parentitas
@@ -160,7 +168,7 @@ tidak akan menampilkan informasi data. Terdapat informasi data yang akan tampil 
 ![overview_labarugi47](../../static/img/LabaRugi/49.png)
 
 ```
-4. Setelah user memilih klik **Terapkan**, maka sistem akan Menampilkan beberapa data, jika terdapat informasi 
+4. Setelah user memilih klik **Terapkan**, maka sistem akan menampilkan beberapa data, jika terdapat informasi 
 data maka sistem akan menampilkan data pada tabel namun jika tidak ada informasi data didalamnya maka sistem 
 tidak akan menampilkan informasi data. Terdapat informasi data yang akan tampil jika user memilih klik 
 **Terapkan**, Yakni :

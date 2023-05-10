@@ -7,7 +7,7 @@
 ```
 2. Setelah itu, jika user belum login maka silahkan login terlebih dahulu.
 ```
-![Login](../../static/img/KategoriBisnis/26.png)
+![Login](../../static/img/KategoriBisnis/Login.png)
 
 ```
 3. Pilih modul Entitas lalu setelah itu pilih menu Kategori Bisnis.
