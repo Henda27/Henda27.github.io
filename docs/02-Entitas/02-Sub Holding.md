@@ -3,7 +3,9 @@
 
 1. Buka halaman website dashboard dengan situs **https://analytics.ecespro.id**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![url](../../static/img/KategoriBisnis/Url.png)
+```
+https://analytics.ecespro.id
+```
 
 2. Setelah itu, jika user belum login maka silahkan login terlebih dahulu.
 ![Login](../../static/img/KategoriBisnis/26.png)
@@ -95,7 +97,7 @@ Fungsi show/hide tabel adalah untuk menampilkan atau menyembunyikan field pada t
 3. Fitur **Ukuran Tabel**
 Berfungsi untuk mengatur ukuran tabel
 ![List_SubHolding](../../static/img/SubHolding/UT.png)
-4. Fitur **Export Excel**
+4. Fitur **Export Excel** h
 Fungsi dari export excel yaitu untuk mengeluarkan dan menyimpan data supaya dapat di Import kedalam file berbentuk Xls
 ![List_SubHolding](../../static/img/SubHolding/ExportExcel.png)
 5. Fitur **Eport PDF**

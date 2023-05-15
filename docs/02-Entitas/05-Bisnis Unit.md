@@ -288,7 +288,7 @@ Fungsi Preview adalah untuk melakukan pratinjau data yang telah di entry oleh us
 3. Setelah di klik, maka sistem akan menampilkan pop-up yang telah tercantumkan **informasi data** pada setiap baris data yang dipilih.
 ```
 ![preview_data3](../../static/img/BisnisUnit/54.png)
-### __Langkah-langkah menggunakan fitur-fitur pada tabel Bisnis Unit__
+### __Fitur-fitur pada tabel Bisnis Unit__
 ---
 ```
 Fitur adalah fitur khusus yang disertakan dalam alat. fitur yang telah tersedia pada Bisnis Unit antara lain, 

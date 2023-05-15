@@ -1,6 +1,6 @@
 Menu **Perusahaan**, digunakan untuk identifikasi Perusahaan bisnis unit.
 
-### __Langkah-langkah mengakses menu Perusahaan__
+## __Langkah-langkah mengakses menu Perusahaan__
 ---
 ```
 1. Buka halaman website dashboard dengan situs **https://analytics.ecespro.id**
@@ -16,7 +16,7 @@ Menu **Perusahaan**, digunakan untuk identifikasi Perusahaan bisnis unit.
 ![Login](../../static/img/Perusahaan/2.png)
 
 
-### __Langkah-langkah menampilkan data list Perusahaan__
+## __Langkah-langkah menampilkan data list Perusahaan__
 ---
 ```
 1. Setelah kita berhasil mengakses menu Perusahaan maka sistem otomatis akan menampilkan data list Perusahaan.
@@ -24,11 +24,13 @@ Menu **Perusahaan**, digunakan untuk identifikasi Perusahaan bisnis unit.
 ![Login](../../static/img/Perusahaan/3.png)
 
 
-### __Langkah-langkah menambahkan data Perusahaan__
+## __Langkah-langkah menambahkan data Perusahaan__
 ---
+
 ```
 Fungsi Tambah data berguna untuk membuat entri atau record baru dalam tabel database. 
 ```
+### **Step 1 tambah data perusahaan.**
 
 ```
 1. Pilih button **"+ Tambah"** pada bagian kanan atas tabel.
@@ -117,6 +119,9 @@ Terdapat 3 langkah formulir tambah Perusahaan, yakni :
 **Simpan dan Lanjutkan** untuk menyimpan data tersebut dan melanjutkan ke langkah berikutnya.
 ```
 ![tambah_data21](../../static/img/Perusahaan/22.png)
+
+
+### **Step 2 tambah data pejabat.**
 ```
 20. **Langkah kedua** melengkapi formulir data pejabat, pilih button **+ Tambah** pada bagian kanan atas tabel 
 data pejabat.
@@ -159,6 +164,7 @@ tabel dan data yang baru di masukan akan tampil pada tabel data **Pejabat**.
 meng-klik button **lanjutkan**.
 ```
 ![tambah_data31](../../static/img/Perusahaan/33.png)
+### **Step 3 tambah data pemegang saham.**
 ```
 28. **Langkah ketiga** melengkapi formulir data **pemegang saham**, pilih button **+ Tambah** pada bagian kanan 
 atas tabel data pemegang saham.
@@ -197,11 +203,15 @@ tabel dan data yang baru di masukan akan tampil pada tabel data **Pemegang Saham
 jika user ingin kembali ke langkah sebelumnya, user dapat memilih button **sebelumnya**.
 ```
 ![tambah_data40](../../static/img/Perusahaan/42.png)
-### __Langkah-langkah edit data Perusahaan__
+
+
+## __Langkah-langkah edit data Perusahaan__
 ---
 ```
 Fungsi Update ini berperan penting dalam memperbarui entri data ketika informasi yang dikandungnya perlu diubah. Dengan fungsi ini user dapat mengubah informasi entri basis data. 
 ```
+### **Step 1 edit data Perusahaan.**
+
 ```
 1. Pilih baris data dengan meng-klik icon titik tiga pada bagian kiri baris data.
 ```
@@ -286,6 +296,9 @@ file.
 * User dapat melakukan filter nama **Kontak** pada fitur **pencarian**.
 ```
 ![edit_data20](../../static/img/Perusahaan/62.png)
+
+### **Step 2 edit data Pejabat.**
+
 ```
 20. Setelah user selesai melakukan perubahan data **Informasi Perusahaan**, maka selanjutnya user melakukan 
 perubahan **Informasi data Pejabat** jika di inginkan.
@@ -345,6 +358,9 @@ informasi formulir yang akan di isi oleh user.
 untuk menyimpan data tersebut dan jika user ingin membatalkan formulir Perusahaan maka pilih button **batal**.
 ```
 ![edit_data32](../../static/img/Perusahaan/74.png)
+### **Step 3 edit data Pemegang Saham.**
+
+
 ```
 32. Perubahan data Pemegang Saham, user memilih tab pemegang saham.
 33.  **Hapus data Pemegang Saham** dengan memilih dan klik titik 3 pada baris data.
@@ -405,8 +421,7 @@ dimasukan dan akan menampilkan pesan **record saved** pada bagian atas kanan tab
       Untuk kembali ke halaman list data terbaru.
 ```
 ![edit_data45](../../static/img/Perusahaan/90.png)
-
-### __Langkah-langkah hapus data Perusahaan__
+## __Langkah-langkah hapus data Perusahaan__
 ---
 ```
 Fungsi Hapus data ini berguna untuk menghapus data di database yang sudah tidak diperlukan lagi. Ketika 
@@ -438,7 +453,7 @@ tabel.
 ![hapus_data5](../../static/img/Perusahaan/95.png)
 
 
-### __Langkah-langkah preview data Perusahaan__
+## __Langkah-langkah preview data Perusahaan__
 ---
 ```
 Fungsi Preview adalah untuk melakukan pratinjau data yang telah di entry oleh user.
@@ -457,7 +472,8 @@ baris data yang dipilih.
 ```
 ![preview_data3](../../static/img/Perusahaan/96.png)
 
-### __Langkah-langkah menggunakan fitur-fitur pada tabel Perusahaan__
+
+## __Fitur-fitur pada tabel Perusahaan__
 ---
 ```
 Fitur adalah fitur khusus yang disertakan dalam alat. fitur yang telah tersedia pada Perusahaan antara lain, 

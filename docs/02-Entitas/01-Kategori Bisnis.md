@@ -52,7 +52,7 @@ informasi formulir yang akan di isi oleh user.
 ![tambah_data4](../../static/img/KategoriBisnis/6.png)
 ```
 5. Pada formulir induk terdapat 2 opsi, ketika user memilih induk maka nama Kategori  Bisnis akan termasuk 
-kedalam induk tersebut dan jika user tidak mengisi formulir induk maka nama Kategori Bisnis akan dijadikan Induk \
+kedalam induk tersebut dan jika user tidak mengisi formulir induk maka nama Kategori Bisnis akan dijadikan Induk
 Kategori Bisnis.
 ```
 ![tambah_data5](../../static/img/KategoriBisnis/7.png)
@@ -144,7 +144,7 @@ atas tabel.
 ![delete_data5](../../static/img/KategoriBisnis/20.png)
 
 
-### __Langkah-langkah menggunakan fitur-fitur pada tabel Kategori Bisnis__
+### __Fitur-fitur pada tabel Kategori Bisnis__
 ---
 ```
 Fitur adalah fitur khusus yang disertakan dalam alat. fitur yang telah tersedia pada Bisnis Unit antara lain, 

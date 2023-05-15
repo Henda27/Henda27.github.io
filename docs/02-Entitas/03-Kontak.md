@@ -158,7 +158,7 @@ kanan atas tabel.
 ![hapus_data5](../../static/img/Kontak/27.png)
 
 
-### __Langkah-langkah menggunakan fitur-fitur pada tabel Kontak__
+### __Fitur-fitur pada tabel Kontak__
 ---
 ```
 Fitur adalah fitur khusus yang disertakan dalam alat. fitur yang telah tersedia pada Bisnis Unit antara lain, 
